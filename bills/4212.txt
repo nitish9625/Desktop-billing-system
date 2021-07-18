@@ -1,0 +1,14 @@
+	 welcome Webcode Retail
+ Bill NUmber: 4212
+ Customer Name: sfkdsfn
+ Phone Number: 185442126
+=======================================
+ products		QTY		Price
+=======================================
+ Bath Soap		452		18080
+ Daal		54		4320
+--------------------------------------
+ Cosmetic Tax			Rs. 904.0
+ Grocery Tax			Rs. 216.0
+---------------------------------------
+ Total Bill			Rs. 23520.0

@@ -1,0 +1,14 @@
+	 welcome Webcode Retail
+ Bill NUmber: 1020
+ Customer Name: nitish
+ Phone Number: 85424812
+=======================================
+ products		QTY		Price
+=======================================
+ Face Wash		1		100
+ Daal		3		240
+--------------------------------------
+ Cosmetic Tax			Rs. 5.0
+ Grocery Tax			Rs. 12.0
+---------------------------------------
+ Total Bill			Rs. 357.0

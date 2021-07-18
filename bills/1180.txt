@@ -1,0 +1,16 @@
+	 welcome Webcode Retail
+ Bill NUmber: 1180
+ Customer Name: niti
+ Phone Number: 8461616
+=======================================
+ products		QTY		Price
+=======================================
+ Bath Soap		1		40
+ Rice		3		120
+ Cock		4		180
+--------------------------------------
+ Cosmetic Tax			Rs. 2.0
+ Grocery Tax			Rs. 6.0
+ Cold Drinks Tax			Rs. 9.0
+ Total Bill			Rs. 357.0
+---------------------------------------

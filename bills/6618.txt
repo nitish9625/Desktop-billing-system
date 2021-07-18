@@ -1,0 +1,15 @@
+	 welcome Webcode Retail
+ Bill NUmber: 6618
+ Customer Name: nitish
+ Phone Number: 851561
+=======================================
+ products		QTY		Price
+=======================================
+ Bath Soap		1		40
+ Face Wash		8		800
+ Daal		3		240
+--------------------------------------
+ Cosmetic Tax			Rs. 42.0
+ Grocery Tax			Rs. 12.0
+---------------------------------------
+ Total Bill			Rs. 1134.0

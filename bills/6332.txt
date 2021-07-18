@@ -1,0 +1,16 @@
+	 welcome Webcode Retail
+ Bill NUmber: 6332
+ Customer Name: sdhfdg
+ Phone Number: 818159162
+=======================================
+ products		QTY		Price
+=======================================
+ Face Cream		1		120
+ Daal		4		320
+ Thumbs Up		4		140
+--------------------------------------
+ Cosmetic Tax			Rs. 6.0
+ Grocery Tax			Rs. 16.0
+ Cold Drinks Tax			Rs. 7.0
+---------------------------------------
+ Total Bill			Rs. 609.0

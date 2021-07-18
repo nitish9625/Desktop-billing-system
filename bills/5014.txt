@@ -1,0 +1,15 @@
+	 welcome Webcode Retail
+ Bill NUmber: 5014
+ Customer Name: nitish
+ Phone Number: 858080356
+=======================================
+ products		QTY		Price
+=======================================
+ Bath Soap		1		40
+ Face Wash		3		300
+ Sugar		4		180
+--------------------------------------
+ Cosmetic Tax			Rs. 17.0
+ Grocery Tax			Rs. 9.0
+ Total Bill			Rs. 546.0
+---------------------------------------
