@@ -1,0 +1,17 @@
+	 welcome Webcode Retail
+ Bill NUmber: 7791
+ Customer Name: ascdas
+ Phone Number: 3266
+=======================================
+ products		QTY		Price
+=======================================
+ Bath Soap		1		40
+ Daal		5		400
+ Sugar		5		225
+ Limca		6		240
+--------------------------------------
+ Cosmetic Tax			Rs. 2.0
+ Grocery Tax			Rs. 31.25
+ Cold Drinks Tax			Rs. 12.0
+---------------------------------------
+ Total Bill			Rs. 950.25

@@ -1,0 +1,12 @@
+	 welcome Webcode Retail
+ Bill NUmber: 5070
+ Customer Name: virender
+ Phone Number: 85452555
+=======================================
+ products		QTY		Price
+=======================================
+ Face Cream		12		1440
+--------------------------------------
+ Cosmetic Tax			Rs. 72.0
+---------------------------------------
+ Total Bill			Rs. 1512.0

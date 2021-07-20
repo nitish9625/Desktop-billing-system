@@ -1,0 +1,14 @@
+	 welcome Webcode Retail
+ Bill NUmber: 6605
+ Customer Name: nitish
+ Phone Number: 85465161
+=======================================
+ products		QTY		Price
+=======================================
+ Bath Soap		1		40
+ Daal		2		160
+--------------------------------------
+ Cosmetic Tax			Rs. 2.0
+ Grocery Tax			Rs. 8.0
+---------------------------------------
+ Total Bill			Rs. 210.0

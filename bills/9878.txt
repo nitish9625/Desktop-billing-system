@@ -1,0 +1,12 @@
+	 welcome Webcode Retail
+ Bill NUmber: 9878
+ Customer Name: nitish
+ Phone Number: 855211
+=======================================
+ products		QTY		Price
+=======================================
+ Bath Soap		2		80
+--------------------------------------
+ Cosmetic Tax			Rs. 4.0
+ Total Bill			 Rs. 84.0
+---------------------------------------

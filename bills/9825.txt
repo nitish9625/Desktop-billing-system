@@ -1,0 +1,19 @@
+	 welcome Webcode Retail
+ Bill NUmber: 9825
+ Customer Name: Ajay
+ Phone Number: 8580800083
+=======================================
+ products		QTY		Price
+=======================================
+ Bath Soap		1		40
+ Hair Gell		2		100
+ Daal		3		240
+ Sugar		4		180
+ Thumbs Up		4		140
+ Sprite		4		180
+--------------------------------------
+ Cosmetic Tax			Rs. 7.0
+ Grocery Tax			Rs. 21.0
+ Cold Drinks Tax			Rs. 16.0
+ Total Bill			Rs. 924.0
+---------------------------------------

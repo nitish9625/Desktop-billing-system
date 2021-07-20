@@ -1,0 +1,14 @@
+	 welcome Webcode Retail
+ Bill NUmber: 9934
+ Customer Name: nitish
+ Phone Number: 8580060
+=======================================
+ products		QTY		Price
+=======================================
+ Face Wash		1		100
+ Sugar		3		135
+--------------------------------------
+ Cosmetic Tax			Rs. 5.0
+ Grocery Tax			Rs. 6.75
+---------------------------------------
+ Total Bill			Rs. 246.75
